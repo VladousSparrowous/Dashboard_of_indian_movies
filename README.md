@@ -7,13 +7,13 @@ Data Loading & Processing - A dataset from Kaggle was loaded, cleaned, and prepa
 
 Key Metrics - Calculated statistical measures and aggregated insights.
 
-Interactive Dashboard: Built with a Python framework Shiny allowing users to:
+Interactive Dashboard built with a Python framework Shiny allowing users to:
 
 Filter and segment data dynamically.
 
-View real-time updates of charts (bar plots, scatter plot) and tables.
+View real-time updates of card, pie chart, scatter plot and tables.
 
-User Controls: Dropdowns, sliders, and checkboxes to customize visualizations.
+User Controls: slider and checkboxes to customize visualizations.
 
 Tools Used: Python (Pandas, Shiny, Plotly)
 
